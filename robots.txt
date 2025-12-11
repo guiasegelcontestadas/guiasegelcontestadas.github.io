@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://guiasegelcontestadas.github.io/guias-egel/sitemap.xml
+Sitemap: https://guiasegelcontestadas.github.io/sitemap.xml
+

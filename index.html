@@ -45,53 +45,121 @@
     <!-- End Meta Pixel Code -->
 
     <!-- Datos Estructurados (Schema.org JSON-LD) -->
-    <script type="application/ld+json">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
+      "@type": "WebSite",
+      "@id": "https://acreditaegel.quantumaudiostudio.com/#website",
+      "url": "https://acreditaegel.quantumaudiostudio.com/",
+      "name": "AcreditaEGEL",
+      "description": "Guías y bancos de reactivos para exámenes CENEVAL EGEL Plus",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://acreditaegel.quantumaudiostudio.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://acreditaegel.quantumaudiostudio.com/#organization",
+      "name": "AcreditaEGEL",
+      "url": "https://acreditaegel.quantumaudiostudio.com/",
+      "logo": "https://acreditaegel.quantumaudiostudio.com/assets/favicon.svg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Catálogo de Guías EGEL Plus",
+      "itemListElement": [
         {
-          "@type": "WebSite",
-          "@id": "https://acreditaegel.quantumaudiostudio.com/#website",
-          "url": "https://acreditaegel.quantumaudiostudio.com/",
-          "name": "AcreditaEGEL",
-          "description": "Guías y bancos de reactivos para exámenes CENEVAL EGEL Plus",
-          "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://acreditaegel.quantumaudiostudio.com/?s={search_term_string}",
-            "query-input": "required name=search_term_string"
-          }
-        },
-        {
-          "@type": "Organization",
-          "@id": "https://acreditaegel.quantumaudiostudio.com/#organization",
-          "name": "AcreditaEGEL",
-          "url": "https://acreditaegel.quantumaudiostudio.com/",
-          "logo": "https://acreditaegel.quantumaudiostudio.com/assets/favicon.svg"
-        },
-        {
-          "@type": "ItemList",
-          "name": "Catálogo de Guías EGEL Plus",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "item": {
-                "@type": "Product",
-                "name": "Guía y Banco de Reactivos EGEL Plus Ingeniería Industrial",
-                "url": "https://acreditaegel.quantumaudiostudio.com/ingenieria-industrial/",
-                "description": "Material de estudio para EGEL Plus Ingeniería Industrial: Procesos, Calidad, Logística y Optimización.",
-                "offers": {
-                  "@type": "Offer",
-                  "priceCurrency": "MXN",
-                  "availability": "https://schema.org/InStock"
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Product",
+            "name": "Guía y Banco de Reactivos EGEL Plus Ingeniería Industrial",
+            "image": [
+              "https://acreditaegel.quantumaudiostudio.com/assets/guia-industrial.webp"
+            ],
+            "description": "Material de estudio para EGEL Plus Ingeniería Industrial: Procesos, Calidad, Logística y Optimización.",
+            "url": "https://acreditaegel.quantumaudiostudio.com/ingenieria-industrial/",
+            "brand": {
+              "@type": "Brand",
+              "name": "AcreditaEGEL"
+            },
+            "offers": {
+              "@type": "Offer",
+              "price": "497.00",
+              "priceCurrency": "MXN",
+              "availability": "https://schema.org/InStock",
+              "url": "https://acreditaegel.quantumaudiostudio.com/ingenieria-industrial/",
+              "priceValidUntil": "2026-12-31",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "MX",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted",
+                "merchantReturnDays": 0,
+                "description": "Por tratarse de un producto digital descargable de acceso inmediato, no se admiten devoluciones una vez efectuada la compra."
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "MXN"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "MX"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 0,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 0,
+                    "unitCode": "DAY"
+                  }
                 }
               }
-            }
-          ]
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "128",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Carlos M."
+                },
+                "datePublished": "2026-08-15",
+                "reviewBody": "Excelente material de estudio. Los reactivos explicados me sirvieron muchísimo para pasar mi examen a la primera.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ]
+          }
         }
       ]
     }
-    </script>
+  ]
+}
+</script>
 </head>
 <body>
 

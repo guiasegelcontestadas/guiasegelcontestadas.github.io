@@ -476,3 +476,18 @@
         @media (min-width: 769px) {
             .img-mobile { display: none; }
         }
+        @media (max-width: 768px) {
+    /* ... tus estilos actuales ... */
+    
+    .img-mobile {
+        display: block;
+        margin-bottom: 15px;
+        padding: 16px; /* Reduce espacio en blanco alrededor del libro en celulares */
+    }
+    
+    .img-mobile img {
+        max-width: 220px; /* Evita que la imagen del libro ocupe toda la pantalla vertical */
+        margin: 0 auto;
+        display: block;
+    }
+}

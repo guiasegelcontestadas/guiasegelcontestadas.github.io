@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home Principal -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Ingeniería, Arquitectura y Tecnología -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-industrial/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/sistemas/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/arquitectura/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Negocios y Administración -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/administracion/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/contaduria/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/mercadotecnia/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ciencias de la Salud -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/medicina/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/enfermeria/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/nutricion/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ciencias Sociales y Humanidades -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/derecho/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/psicologia/</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>

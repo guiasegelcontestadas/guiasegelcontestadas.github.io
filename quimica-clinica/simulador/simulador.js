@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const token = urlParams.get('acceso');
     
-    const TOKEN_VALIDO = 'egel2026_ quimica_clinica_secure'; 
+    const TOKEN_VALIDO = 'egel2026_quimica_clinica_secure'; 
 
     const esLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.protocol === 'file:';
 

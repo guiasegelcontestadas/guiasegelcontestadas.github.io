@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const token = urlParams.get('acceso');
     
-    const TOKEN_VALIDO = 'egel2026_ trabajo_social_secure'; 
+    const TOKEN_VALIDO = 'egel2026_trabajo_social_secure'; 
 
     const esLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.protocol === 'file:';
 

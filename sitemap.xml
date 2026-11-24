@@ -4,81 +4,279 @@
     <!-- Home Principal -->
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
     <!-- Ingeniería, Arquitectura y Tecnología -->
     <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/arquitectura/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ciencias-computacionales/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/informatica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-biomedica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-civil/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-computacional/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-de-software/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-electrica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-electronica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-en-alimentos/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-en-biotecnologia/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-industrial/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-mecanica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-mecanica-electrica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-mecatronica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ingenieria-quimica/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/sistemas/</loc>
-        <lastmod>2026-10-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://acreditaegel.quantumaudiostudio.com/arquitectura/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
-    <!-- Negocios y Administración -->
+    <!-- Negocios, Economía y Administración -->
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/administracion/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/contaduria/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/economia/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/finanzas/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/gastronomia/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/mercadotecnia/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/negocios-internacionales/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/turismo/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
-    <!-- Ciencias de la Salud -->
+    <!-- Ciencias de la Salud y Biológicas -->
     <url>
-        <loc>https://acreditaegel.quantumaudiostudio.com/medicina/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <loc>https://acreditaegel.quantumaudiostudio.com/biologia/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ciencias-agricolas/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/enfermeria/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/fisioterapia/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/medicina/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/nutricion/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/odontologia/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/quimica-clinica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/quimico-farmaceutico/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/química/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/veterinaria/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
-    <!-- Ciencias Sociales y Humanidades -->
+    <!-- Ciencias Sociales, Artes y Humanidades -->
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/ciencia-politica/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/comunicacion/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/derecho/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/diseno-grafico/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/pedagogia/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://acreditaegel.quantumaudiostudio.com/psicologia/</loc>
-        <lastmod>2026-10-17</lastmod>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/relaciones-internacionales/</loc>
+        <lastmod>2026-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://acreditaegel.quantumaudiostudio.com/trabajo-social/</loc>
+        <lastmod>2026-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
